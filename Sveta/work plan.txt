@@ -1,0 +1,22 @@
+Сделано:
+
+Read:
+1. https://huggingface.co/spaces/HuggingFaceH4/on-policy-distillation
+краткое содержание: см. дипсик
+
+2. https://openreview.net/forum?id=bwRxXiGO9A
+краткое содержание: см. презентацию https://docs.google.com/presentation/d/13xybDiKnl77tQWfSbqTKpzQ5sFp9if5UEluGbe_L9Lo/edit?usp=sharing
+
+3. https://arxiv.org/pdf/2510.08102
+краткое содержание: см. дипсик
+
+4. https://arxiv.org/pdf/2512.14954
+краткое содержание: сделать
+
+План работы:
+
+1. Todo: скомпилировать краткое содержание в оверлифе:
+https://ru.overleaf.com/project/697798eb21b4ec49e976186f
+
+2. Read:
+- smth
